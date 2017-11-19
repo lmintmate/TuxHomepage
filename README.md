@@ -4,11 +4,11 @@
 
 ## Access
 
-Access TuxHomepage on the web: [https://tuxhomepage.xyz](https://tuxhomepage.xyz)
+Access TuxHomepage on the web: [https://lmintmate.github.io/TuxHomepage](https://lmintmate.github.io/TuxHomepage)
 
 ## Description
 
-TuxHomepage is an homepage for linux users.
+TuxHomepage is a homepage for linux users.
 
 ## Tech
 
