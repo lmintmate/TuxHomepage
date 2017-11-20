@@ -83,6 +83,12 @@
         "website": "http://www.ubuntu.com",
         "doc": "https://help.ubuntu.com"
     },
+    "ubuntumate": {
+        "name": "Ubuntu Mate",
+        "main_color": "87a556",
+        "website": "https://ubuntu-mate.org",
+        "doc": "https://ubuntu-mate.community/wiki"
+    },
     "xubuntu": {
         "name": "Xubuntu",
         "main_color": "0044aa",
