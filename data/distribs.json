@@ -41,6 +41,12 @@
         "website": "https://gentoo.org",
         "doc": "https://www.gentoo.org/support/documentation"
     },
+    "kubuntu": {
+        "name": "Kubuntu",
+        "main_color": "0079c1",
+        "website": "https://kubuntu.org",
+        "doc": "https://github.com/kubuntu-team/kubuntu-manual"
+    },
     "linuxmint": {
         "name": "Linux Mint",
         "main_color": "7dbe3b",
